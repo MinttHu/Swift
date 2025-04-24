@@ -1,0 +1,5 @@
+c-48 m 18354 n 18354 width 128 nnz 166080 shuffle_ratio 0.000197 reside_ratio 0.019846 cuSPARSE: 5.897600 final 0.472224 
+rajat22 m 39899 n 39899 width 128 nnz 197264 shuffle_ratio 0.000000 reside_ratio 0.075026 cuSPARSE: 5.722176 final 0.507328 
+RFdevice m 74104 n 74104 width 128 nnz 365580 shuffle_ratio 0.000000 reside_ratio 0.000383 cuSPARSE: 5.567360 final 0.771456 
+HEP-th m 27240 n 27240 width 128 nnz 342437 shuffle_ratio 0.000000 reside_ratio 0.053654 cuSPARSE: 6.198464 final 0.910304 
+bundle1 m 10581 n 10581 width 128 nnz 770901 shuffle_ratio 0.006977 reside_ratio 0.042118 cuSPARSE: 5.569856 final 2.185536 

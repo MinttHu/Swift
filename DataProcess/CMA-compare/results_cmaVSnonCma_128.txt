@@ -1,0 +1,5 @@
+c-48 m 18354 n 18354 width 128 nnz 166080 Swift_row 0.604448 Swift_col 0.513536 
+rajat22 m 39899 n 39899 width 128 nnz 197264 Swift_row 1.048832 Swift_col 0.950976 
+RFdevice m 74104 n 74104 width 128 nnz 365580 Swift_row 3.364928 Swift_col 1.950208 
+HEP-th m 27240 n 27240 width 128 nnz 342437 Swift_row 1.303968 Swift_col 0.923904 
+bundle1 m 10581 n 10581 width 128 nnz 770901 Swift_row 2.018560 Swift_col 2.582816 

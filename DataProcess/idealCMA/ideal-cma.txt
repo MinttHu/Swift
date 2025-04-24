@@ -1,0 +1,9 @@
+bundle1 m 10581 n 10581 width 32 nnz 111957561 row-major 119.861374 col-major 101.912384 
+c-48 m 18354 n 18354 width 32 nnz 336869316 row-major 364.264343 col-major 311.508942 
+HEP-th m 27240 n 27240 width 32 nnz 742017600 row-major 812.381714 col-major 693.910645 
+rajat22 m 39899 n 39899 width 32 nnz 1591930201 row-major 1731.225830 col-major 1426.657227 
+RFdevice m 74104 n 74104 width 32 nnz 1196435520 row-major 0.000000 col-major 0.000000 
+RFdevice m 74104 n 74104 width 32 nnz 1196435520 row-major 0.000000 col-major 0.000000 
+bundle1 m 10581 n 10581 width 32 nnz 111957561 row-major 119.736160 col-major 101.478081 
+bundle1 m 10581 n 10581 width 32 nnz 111957561 row-major 119.438721 col-major 100.900925 
+bundle1 m 10581 n 10581 width 32 nnz 111957561 row-major 121.223427 col-major 102.256065 
